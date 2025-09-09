@@ -1,8 +1,8 @@
 {
-  "name": "ntn-boilerplate",
-  "version": "2.1.1",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <hello+dev@svenparker.com> (https://svenparker.com)",
+  "name": "novadash-admin-template",
+  "version": "1.0.0",
+  "description": "NovaDash - Professional Vue.js Admin Dashboard Template with Chart.js integration",
+  "author": "Pormetrixx <admin@pormetrixx.com>",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -11,11 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Knogobert/ntn-boilerplate#readme"
+    "url": "https://github.com/Pormetrixx/prometrixx"
   },
   "license": "MIT",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-regular-svg-icons": "^7.0.1",
+    "@fortawesome/free-solid-svg-icons": "^7.0.1",
+    "@fortawesome/vue-fontawesome": "^2.0.10",
     "@nuxt/content": "^1.14.0",
+    "chart.js": "^3.9.1",
     "nuxt": "^2.15.8"
   },
   "devDependencies": {
